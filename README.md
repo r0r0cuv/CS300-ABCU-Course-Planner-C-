@@ -1,62 +1,39 @@
-# CS300-ABCU-Course-Planner-C-
-C++ academic course planner using a Binary Search Tree to efficiently load, search, and display course information and prerequisites.
+CS300 Data Structures and Algorithms
+Overview
 
+This repository contains artifacts from CS-300: Data Structures and Algorithms at Southern New Hampshire University.
 
-# ABCU Course Planner
+The project focused on designing and implementing an advising application for ABCU that stores, searches, and displays Computer Science course information. The application loads course data from a CSV file, organizes it using efficient data structures, and prints the courses in alphanumeric order while displaying prerequisite information.
 
-## Overview
-
-The ABCU Course Planner is a C++ command-line application developed for Southern New Hampshire University's CS-300 Data Structures and Algorithms course.
-
-The application assists academic advisors by loading course information from a file, organizing the data using a Binary Search Tree (BST), and providing efficient search and sorting capabilities.
-
-This project demonstrates the practical application of data structures and algorithms to solve a real-world academic advising problem.
-
----
-
-## Features
-
-- Load course data from a CSV file
-- Store course information in a Binary Search Tree
-- Display all courses in alphanumeric order
-- Search for individual courses
-- Display course titles and prerequisites
-- Error handling for invalid menu selections
-- File validation and input checking
-
----
-
-## Technologies Used
-
-- C++
-- Visual Studio 2022
-- Binary Search Tree (BST)
-- File I/O
-- Object-Oriented Programming
-
----
-
-## Data Structure Selection
-
-A Binary Search Tree was selected because it provides:
-
-### Efficient Searching
-
-Average search time:
-
-```text
-O(log n)
-```
-
-### Natural Sorting
-
-An in-order traversal automatically displays courses in alphanumeric order.
-
-### Scalability
-
-The BST can efficiently handle larger datasets compared to a simple vector-based approach.
-
----
+Repository Contents
+Project One
+Runtime and memory analysis of vectors, hash tables, and binary search trees
+Comparison of algorithm efficiency and data structure performance
+Project Two
+C++ source code for the ABCU Advising Program
+CSV file parser
+Binary Search Tree implementation
+Course lookup functionality
+Alphanumeric course sorting and display
+Technologies Used
+C++
+Visual Studio
+CSV File Processing
+Binary Search Trees
+Hash Tables
+Vectors
+Git & GitHub
+Skills Demonstrated
+Data Structures
+Algorithm Design
+Runtime Analysis
+Memory Analysis
+Binary Search Trees
+Hash Tables
+Searching and Sorting Algorithms
+Object-Oriented Programming
+File Processing
+Problem Solving
 
 ## Program Menu
 
@@ -70,6 +47,10 @@ The BST can efficiently handle larger datasets compared to a simple vector-based
 ---
 
 ## Sample Output
+
+<img width="606" height="295" alt="sc2" src="https://github.com/user-attachments/assets/391d7148-0d24-45f6-a300-8ed41ebb5ef2" />
+
+
 
 ```text
 Welcome to the course planner.
