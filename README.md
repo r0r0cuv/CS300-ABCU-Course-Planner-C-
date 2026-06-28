@@ -49,6 +49,7 @@ Problem Solving
 ## Sample Output
 
 <img width="606" height="295" alt="sc2" src="https://github.com/user-attachments/assets/391d7148-0d24-45f6-a300-8ed41ebb5ef2" />
+<img width="606" height="295" alt="sc2" src="https://github.com/user-attachments/assets/35af877d-50dc-4f84-ac89-106fe9820fbe" />
 
 
 
